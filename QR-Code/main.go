@@ -7,7 +7,7 @@ import (
 
 	"text/template"
 
-	"github.com/boombuler/barcode"
+	"github.com/MudimukkuSreenath/barcode"
 
 	"github.com/boombuler/barcode/qr"
 )
